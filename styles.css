@@ -1,0 +1,23 @@
+body{
+    background:black;
+}
+p{
+    color:white;
+    font-family:sans-serif;
+}
+h1{
+    color:white;
+}
+ul{
+    color:white;
+    font-family:sans-serif;
+}
+h1{
+    text-align:center;
+}
+img{
+    width:500px;
+    text-align:center;
+    border:dotted 8px #FFFFFF;
+    display:block;
+}
